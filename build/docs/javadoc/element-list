@@ -1,0 +1,15 @@
+com.gmail.merikbest2015.configuration
+com.gmail.merikbest2015.constants
+com.gmail.merikbest2015.dto
+com.gmail.merikbest2015.dto.request
+com.gmail.merikbest2015.dto.response.chat
+com.gmail.merikbest2015.dto.response.lists
+com.gmail.merikbest2015.dto.response.notification
+com.gmail.merikbest2015.dto.response.tweet
+com.gmail.merikbest2015.dto.response.user
+com.gmail.merikbest2015.enums
+com.gmail.merikbest2015.exception
+com.gmail.merikbest2015.mapper
+com.gmail.merikbest2015.record
+com.gmail.merikbest2015.security
+com.gmail.merikbest2015.util
